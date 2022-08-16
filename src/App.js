@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>Olá Mundo este é um projeto JS Web</h1>
+      <h1>Olá Mundo do Guilherme! Este é um projeto JS Web</h1>
     </>
   );
 }
